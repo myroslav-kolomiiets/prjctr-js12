@@ -1,1 +1,1 @@
-# (07) Function advanced (1)
+# (07) Functions advanced (1)
