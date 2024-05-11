@@ -7,3 +7,4 @@
 * [05. Objects](./05_objects/README.MD)
 * [06. Set, Map](./06_set-map/README.MD)
 * [07. Functions advanced (part 1)](./07_functions_advanced_1/README.MD)
+* [08. Functions advanced (part 2)](./08_functions_advanced_2/README.MD)
