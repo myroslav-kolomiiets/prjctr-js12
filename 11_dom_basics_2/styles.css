@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.redButton {
+    background-color: red;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: yellow;
+    font-size: 16px;
+}
+
+.greenButton {
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    font-size: 16px;
+}
