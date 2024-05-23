@@ -8,3 +8,7 @@
 * [06. Set, Map](./06_set-map/README.MD)
 * [07. Functions advanced (part 1)](./07_functions_advanced_1/README.MD)
 * [08. Functions advanced (part 2)](./08_functions_advanced_2/README.MD)
+* [09. Parsing unction (part 2)](./09_parsing_function/README.MD)
+* [10. DOM basics (part 1)](./10_dom_basics_1/README.MD)
+* [11. DOM basics (part 2)](./11_dom_basics_2/README.MD)
+* [12. Workshop TODO list](./12_workshop_todolist/README.MD)
