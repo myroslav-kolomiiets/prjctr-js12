@@ -1,0 +1,10 @@
+export const READY_STATE_INTERACTIVE = 'interactive';
+export const READY_STATE_COMPLETE = 'complete';
+export const MULTIPLICATION = '*';
+export const MULTIPLICATION_SIGN = '×';
+export const DIVISION = '/';
+export const DIVISION_SIGN = '÷';
+export const ADDITION = '+';
+export const SUBTRACTION = '-';
+export const EQUAL = '=';
+export const CLEAR = 'C';
