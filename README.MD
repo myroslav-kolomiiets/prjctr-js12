@@ -12,3 +12,6 @@
 * [10. DOM basics (part 1)](./10_dom_basics_1/README.MD)
 * [11. DOM basics (part 2)](./11_dom_basics_2/README.MD)
 * [12. Workshop TODO list](./12_workshop_todolist/README.MD)
+* [13. Workshop Calculator](./13_workshop_calculator/README.MD)
+* [14. OOP in JS](./14_OOP/README.MD)
+* [15. Workshop Book list app](./15_workshop_book_list/README.MD)
